@@ -1,0 +1,6 @@
+let i = 50
+
+while(i < 60){
+    i+= 2
+    console.log(`os numeros entre 50 e 60 PARES são: ${i}`)
+}
